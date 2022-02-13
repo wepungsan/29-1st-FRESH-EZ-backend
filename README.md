@@ -60,14 +60,14 @@
 
 + Decorator 적용하여 token 통해서 유저 인증 후 알러지 유무에 맞게 제품 리스트가 보이도록 구현 (POST)
 
-### Subscription
-+ Decorator 적용하여 token 통해서 유저 인증 후 구독 과정을 진행할 수 있도록 구현 (POST)
-
 + 장바구니에 제품 추가 기능 구현 (POST)
 
 + 장바구니 제품 리스트 조회 기능 구현 (POST)
 
 + 장바구니 제품 삭제 기능 구현 (POST)
+
+### Subscription
++ Decorator 적용하여 token 통해서 유저 인증 후 구독 과정을 진행할 수 있도록 구현 (POST)
 
 
 ## Reference
