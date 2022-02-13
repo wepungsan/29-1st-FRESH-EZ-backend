@@ -22,7 +22,7 @@
 
 ## ERD
 
-![MRMRZARA](https://user-images.githubusercontent.com/85734839/153732460-450c8199-a0cb-4cd4-bfe5-aaad372639c0.png)
+![MRMRZARA](https://user-images.githubusercontent.com/86659102/153740817-a2566a25-818b-4fa9-84ff-281389bb07d5.png)
 
 
 ## 협업 도구
