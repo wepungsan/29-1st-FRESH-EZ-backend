@@ -6,7 +6,7 @@
 
 ## 개발 인원 및 기간
 
-+ 개발기간: 2021.1.31. ~ 2022.02.11.
++ 개발기간: 2021.1.24. ~ 2022.02.11.
 	+ Backend: 이도운, 이동훈 (repository: https://github.com/wecode-bootcamp-korea/29-1st-FRESH-EZ-backend)
 	
 	+ Backend
